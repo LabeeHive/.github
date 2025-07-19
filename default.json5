@@ -10,10 +10,18 @@
     ":timezone(Asia/Tokyo)",
     ":prHourlyLimitNone",
     ":prConcurrentLimitNone",
+    'schedule:earlyMondays',
 
     // renovate: datasource=github-tags depName=aquaproj/aqua-renovate-config
     "github>aquaproj/aqua-renovate-config#2.8.2",
   ],
+
+  // Schedule
+  timezone: 'Asia/Tokyo',
+  updateNotScheduled: false,
+
+  // Package
+  minimumReleaseAge: "5 days",
 
   // Automerge
   platformAutomerge: true,
