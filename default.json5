@@ -4,7 +4,7 @@
   reviewers: ["@corrupt952"],
 
   extends: [
-    "config:base",
+    " config:best-practices",
 
     // https://docs.renovatebot.com/presets-default/
     ":timezone(Asia/Tokyo)",
@@ -19,9 +19,6 @@
   // Schedule
   timezone: 'Asia/Tokyo',
   updateNotScheduled: false,
-
-  // Package
-  minimumReleaseAge: "5 days",
 
   // Automerge
   platformAutomerge: true,
