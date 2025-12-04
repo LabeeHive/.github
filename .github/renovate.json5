@@ -6,8 +6,8 @@
   customManagers: [
     {
       customType: 'regex',
-      fileMatch: [
-        '^default.json5$',
+      managerFilePatterns: [
+        '/^default.json5$/',
       ],
       matchStrings: [
         'datasource=(?<datasource>.*?) depName=(?<depName>.*?)( versioning=(?<versioning>.*?))?\\s+\\S+#(?<currentValue>\\S+)"',
