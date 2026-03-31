@@ -1,32 +1,28 @@
 # Labee 🐝
 
-Labee is a technology company that develops and operates its own software services and tools, bringing positive changes to society through technology and design.
+We build software products and take on custom development work.
 
-## Products 🚀
+## Products
 
 | Product | Platform | Description |
 |---------|----------|-------------|
-| [Labee Dev Toolbox](https://devtoolbox.labee.jp) | Web | Developer utilities — JSON formatting, Base64 conversion, UUID generation, and more |
-| Vigilare | macOS | Apple Reminders enhancement with a floating window |
-| Bookil | iOS | PDF reader with an e-book experience |
-| SpriteFrame | iPadOS | Pixel art converter with layer system |
-| Chimr | macOS | Meeting reminder menubar app |
-| Shiori | macOS | Desktop widget with tab functionality (Coming Soon) |
+| [Labee Dev Toolbox](https://labee.dev/) | Web | JSON formatting, Base64, UUID, and other dev utilities |
+| [Vigilare](https://vigilare.labee.dev/) | macOS | Apple Reminders with a persistent floating window |
+| [Bookil](https://bookil.labee.jp/) | iOS | PDF reader that feels like an e-book |
+| [SpriteFrame](https://spriteframe.labee.dev/) | iPadOS | Convert photos to pixel art with layer support |
+| [Chimr](https://chimr.zuki.dev/) | macOS | Menubar app that nudges you before meetings start |
+| Shiori | macOS | Desktop widget with tabs (coming soon) |
 
-## Services 🛠️
+## Custom development
 
-We also provide custom software development services:
-
-- Web system development
-- Mobile app development
-- AI/LLM integration support
-- Cloud infrastructure setup
-- Website design
+- Web and mobile apps
+- AI/LLM integration
+- Cloud infrastructure
 - Technical consulting
 
-## Get in Touch 📩
+## Links
 
-- Email: contact@labee.jp
-- Website: [labee.jp](https://labee.jp)
-- X: [@LabeeHive](https://twitter.com/LabeeHive)
-- note: [LabeeHive](https://note.com/LabeeHive)
+- [labee.jp](https://labee.jp)
+- [X (@LabeeHive)](https://twitter.com/LabeeHive)
+- [note](https://note.com/LabeeHive)
+- contact@labee.jp
