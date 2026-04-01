@@ -1,5 +1,4 @@
 {
-  dependencyDashboard: true,
   assignees: ["@corrupt952"],
   reviewers: ["@corrupt952"],
 
@@ -14,7 +13,6 @@
   ],
 
   // Schedule
-  timezone: 'Asia/Tokyo',
   updateNotScheduled: false,
 
   // Automerge
