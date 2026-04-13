@@ -1,6 +1,6 @@
 {
-  assignees: ["@corrupt952"],
-  reviewers: ["@corrupt952"],
+  assignees: ["corrupt952"],
+  reviewers: ["corrupt952"],
 
   extends: [
     "config:best-practices",
