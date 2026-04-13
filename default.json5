@@ -22,5 +22,9 @@
       matchUpdateTypes: ["minor", "patch", "pin", "digest"],
       automerge: true,
     },
+    {
+      groupName: "cloudflare workers-sdk",
+      matchSourceUrls: ["https://github.com/cloudflare/workers-sdk"],
+    },
   ],
 }
