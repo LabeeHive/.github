@@ -10,6 +10,9 @@
     ":prHourlyLimitNone",
     ":prConcurrentLimitNone",
     'schedule:earlyMondays',
+
+    // Keep biome.json $schema version in sync with @biomejs/biome package
+    "customManagers:biomeVersions",
   ],
 
   // Schedule
