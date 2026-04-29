@@ -17,6 +17,7 @@
 
   // Automerge
   platformAutomerge: true,
+  automergeStrategy: "squash",
 
   // Package rules
   packageRules: [
